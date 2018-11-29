@@ -1,6 +1,6 @@
 {
   "name": "@vuedoc/parser",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Generate a JSON documentation for a Vue file",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/vuedoc/parser.git"
+    "url": "git+https://github.com/dash14/vuedoc-parser.git"
   },
   "keywords": [
     "vuedoc",
@@ -21,10 +21,7 @@
   ],
   "author": "Sébastien Demanou",
   "license": "MIT",
-  "bugs": {
-    "url": "https://gitlab.com/vuedoc/parser/issues"
-  },
-  "homepage": "https://gitlab.com/vuedoc/parser",
+  "homepage": "https://github.com/dash14/vuedoc-parser",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "espree": "^3.5.4",
